@@ -1,0 +1,11 @@
+# Revisores obligatorios por ruta.
+# Reemplaza @ARQUITECTO por el usuario de GitHub del arquitecto cuando acepte la invitación.
+
+*                    @ricardo-meneses
+/db/                 @ricardo-meneses
+/docs/negocio/       @ricardo-meneses
+/docs/adr/           @ricardo-meneses
+/api/                @ricardo-meneses
+/infra/              @ricardo-meneses
+/docs/api/           @ricardo-meneses
+/.github/            @ricardo-meneses

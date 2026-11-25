@@ -1,0 +1,31 @@
+# Secretos y credenciales — nunca al repo
+*.cer
+*.key
+*.pfx
+*.p12
+*.pem
+.env
+.env.*
+!.env.example
+secrets/
+
+# Datos reales de municipios
+datos-reales/
+*.bak
+
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Node
+node_modules/
+dist/
+
+# SO / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
