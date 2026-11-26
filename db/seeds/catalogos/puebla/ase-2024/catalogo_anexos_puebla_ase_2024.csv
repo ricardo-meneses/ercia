@@ -1,0 +1,86 @@
+fraccion_art17,codigo,nombre,archivo,hojas,campos_detectados,tipo_captura_sugerido,comparte_archivo
+I,1.1,Marco Jurídico,AYTOANEXO_1.1 MARCO JURÍDICO.xlsx,Anexo 1.1,2,formulario o adjunto (revisar),no
+I,1.2,Relación de libros de las sesiones del cabildo,AYTOANEXO_1.2 libros de Cabildo.xlsx,A_1.2 Libros Cabildo,7,tabla,no
+I,1.3,Seguimiento de los Acuerdos de Cabildo,AYTOANEXO_1.3 ACUERDOS CABILDO.xlsx,anexo 1.3,6,tabla,no
+II,2.1.1,Documentación justificativa y comprobatoria de la fuente de financiamiento de ingresos de gestión,AYTOANEXO_2.1 recursos y financiamiento.xlsx,Anexo 2.1 .1,36,tabla,si
+II,2.1.2,Documentación justificativa y comprobatoria de los recursos federales (participaciones),AYTOANEXO_2.1 recursos y financiamiento.xlsx,Anexo 2.1 .2,36,tabla,si
+II,2.1.3,Documentación justificativa y comprobatoria de los recursos federales (aportaciones) - FISM,AYTOANEXO_2.1 recursos y financiamiento.xlsx,Anexo 2.1 .3,36,tabla,si
+II,2.1.4,Documentación justificativa y comprobatoria de los recursos federales (aportaciones) - FORTAMUN,AYTOANEXO_2.1 recursos y financiamiento.xlsx,Anexo 2.1 .4,36,tabla,si
+II,2.1.5,Documentación justificativa y comprobatoria de los recursos federales (otras fuentes de financiamiento),AYTOANEXO_2.1 recursos y financiamiento.xlsx,Anexo 2.1 .5,36,tabla,si
+II,2.2,Entrega de información en sistemas o herramientas contables,AYTOANEXO_2.2 sistema contable.xlsx,Anexo 2.2,3,formulario o adjunto (revisar),no
+II,2.3,Relación de archivos electrónicos de sistemas o herramientas contables,AYTOANEXO_2.3 archivos electronicos.xlsx,Anexo 2.3,9,tabla,no
+III,3.1,Entrega de Cuentas Públicas,AYTOANEXO_3.1 cuenta publica.xlsx,Anexo 3.1,3,formulario o adjunto (revisar),no
+III,3.2,"Presupuesto de ingresos, egresos y recomendaciones",AYTOANEXO_3.2 presupuestos y recomendaciones.xlsx,Anexo 3.2,9,tabla,no
+III,3.3a,Arqueo de caja (A),AYTOANEXO_3.3 arqueo caja.xlsx,Anexo 3.3a,4,tabla,si
+III,3.3b,Arqueo de caja (B),AYTOANEXO_3.3 arqueo caja.xlsx,3.3b,8,tabla,si
+III,3.4,Conciliación bancaria,AYTOANEXO_3.4 conciliacion bancaria .xlsx,Anexo 3.4,2,formulario o adjunto (revisar),no
+III,3.5,Relación del último cheque expedido por cada una de las cuentas bancarias,AYTOANEXO_3.5 cheques.xlsx,Anexo 3.5,11,tabla,no
+III,3.6,Relación de cheques expedidos por entregar o transferencias por realizar a beneficiarios,AYTOANEXO_3.6 transferencias y cheques.xlsx,Anexo 3.6,13,tabla,no
+III,3.7,Relación de cancelación de cuentas bancarias,AYTOANEXO_3.7 cuentas bancarias.xlsx,Anexo 3.7,8,tabla,no
+III,3.8.1,Relación de derechos a recibir en efectivo y equivalentes,AYTOANEXO_3.8.1 derechos a recibir efectivo.xlsx,Anexo 3.8.1,9,tabla,no
+III,3.8.2,Conciliación de relación de derechos a recibir en efectivo y equivalentes,AYTOANEXO_3.8.2 Concili de derechos a recibir.xlsx,Anexo 3.8.2,3,formulario o adjunto (revisar),no
+III,3.9,Relación de pasivos,AYTOANEXO_3.9 pasivos.xlsx,Anexo 3.9,11,tabla,no
+III,3.10,Relación de derechos a recibir bienes o servicios,AYTOANEXO_3.10 derechos a recibir bienes servicios.xlsx,Anexo 3.10,8,tabla,no
+III,3.11a,"Relación de padrón de proveedores del Ayuntamiento (arrendamientos, bienes y servicios)",AYTOANEXO_3.11 PADRON DE PROVEEDORES CONTRATISTAS.xlsx,Anexo 3.11 (a),10,tabla,si
+III,3.11b,Relación de padrón de contratistas del Ayuntamiento,AYTOANEXO_3.11 PADRON DE PROVEEDORES CONTRATISTAS.xlsx,Anexo 3.11 (b),10,tabla,si
+III,3.12,Pagos pendientes programados,AYTOANEXO_3.12 PAGOS PENDIENTES PROGRAMADOS.xlsx,anexo_3.12 PAGOS PENDIENTES,6,tabla,no
+III,3.13,Iniciativa de Ley de Ingresos 2025,AYTOANEXO_3.13 INICIATIVA DE LEY DE ING.xlsx,Anexo_3.13 INGRESOS LEY,0,formulario o adjunto (revisar),no
+IV,4.1,Relación de obligaciones financieras,AYTOANEXO_4.1 obligaciones financieras.xlsx,Anexo 4.1,17,tabla,no
+V,5.1,Inventario de obras terminadas,AYTOANEXO_5.1 inventario de obras terminadas.xlsx,Anexo 5.1,20,tabla,no
+V,5.2,Inventario de obras y proyectos en proceso,AYTOANEXO_5.2 inventario de obras en proceso.xlsx,Anexo 5.2,23,tabla,no
+VI,6.1,Presupuesto de Egresos,AYTOANEXO_6.1 PRESUPUESTO DE EGRESOS.xlsx,A_6.1 PRESUPUESTO DE EGRESOS,18,tabla,no
+VII,7.1,Estructura orgánica y manual de organización,AYTOANEXO_7.1 estructura organica y manuales.xlsx,Anexo 7.1,6,tabla,no
+VII,7.2,Plantilla de personal,AYTOANEXO_7.2 plantilla.xlsx,Anexo 7.2,18,tabla,no
+VII,7.3,Expedientes de la plantilla de personal en activo,AYTOANEXO_7.3 expedientes de personal EN ACTIVO.xlsx,Anexo 7.3,12,tabla,no
+VII,7.4,Plazas autorizadas,AYTOANEXO_7.4 PLAZAS AUTORIZADAS.xlsx,Anexo_7.4 Plazas autorizadas,11,tabla,no
+VII,7.5,Relación de expedientes de personal que causó baja durante el ejercicio en curso,AYTOANEXO_7.5 EXPEDIENTES PERSONAL BAJA.xlsx,Anexo 7.5,8,tabla,no
+VII,7.6,Pasivos laborales y contingentes,AYTOANEXO_7.6 PASIVOS LABORALES.xlsx,anexo-7.6 PASIVOS LABORALES,8,tabla,no
+VII,7.7,Relación de sueldos y salarios No cobrados,AYTOANEXO_7.7 SUELDOS Y SALARIOS NO COBRADOS.xlsx,anexo_7.7 SUELDOS NO COBRADOS,11,tabla,no
+VIII,8.1.1,Relación de contratos vigentes celebrados,AYTOANEXO_8.1.1 contratos vigentes.xlsx,Anexo 8.1.1,14,tabla,no
+VIII,8.1.2,Conciliación del monto devengado de contratos vigentes,AYTOANEXO_8.1.2 CONCILIACIÓN DEL MONTO DEVENGADO DE CONTRATOS VIGENTES.xlsx,Anexo 8.1.2,3,formulario o adjunto (revisar),no
+VIII,8.1.3,Conciliación del saldo comprometido de contratos vigentes,AYTOANEXO_8.1.3 CONCILIACIÓN DEL SALDO COMPROMETIDO DE CONTRATOS VIGENTES.xlsx,Anexo 8.1.3,3,formulario o adjunto (revisar),no
+VIII,8.2,Relación de Acuerdos y Convenios de Colaboración y de Coordinación,AYTOANEXO_8.2 ACUERDOS CONVENIOS COORDINACION COLABORACIÓN.xlsx,Anexo 8.2 CONVENIOS,13,tabla,no
+VIII,8.3,Relación de Convenios Intergubernamentales vigentes,AYTOANEXO_8.3 CONVENIOS INTERGUBERNAMENTALES.xlsx,ANEXO 8.3 Intergubernamentales,10,tabla,no
+IX,9.1,Planeación,AYTOANEXO_9.1 Desempeño Planeación.xlsx,ANEXO 9.1 PLANEACIÓN,9,tabla,no
+IX,9.2,Programación,AYTOANEXO_9.2 Desempeño Programación.xlsx,ANEXO 9.2 PROGRAMACIÓN,9,tabla,no
+IX,9.3,Presupuestación,AYTOANEXO_9.3 Desempeño Presupuestación.xlsx,ANEXO 9.3 PRESUPUESTACIÓN,9,tabla,no
+IX,9.4,Seguimiento,AYTOANEXO_9.4 Desempeño Seguimiento.xlsx,ANEXO 9.4 SEGUIMIENTO,9,tabla,no
+IX,9.5,Evaluación,AYTOANEXO_9.5 Desempeño Evaluación.xlsx,ANEXO 9.5 EVALUACIÓN,9,tabla,no
+IX,9.6,Participación Ciudadana,AYTOANEXO_9.6 Desempeño Participación Ciudadana.xlsx,ANEXO 9.6 P. CIUDADANA,9,tabla,no
+IX,9.7,Perspectiva de Género,AYTOANEXO_9.7 Desempeño Perspectiva Género.xlsx,ANEXO 9.7 PERSPECTIVA DE GÉNER,9,tabla,no
+IX,9.8,Control Interno,AYTOANEXO_9.8 Desempeño Control Interno.xlsx,ANEXO 9.8 CONTROL INTERNO,9,tabla,no
+X,10.1,Inventario de formas valoradas por utilizar,AYTOANEXO_10.1 formas valoradas.xlsx,Anexo 10.1,7,tabla,no
+X,10.2.1,Relación de escrituras públicas,AYTOANEXO_10.2.1 escrituras públicas.xlsx,Anexo 10.2.1,13,tabla,no
+X,10.2.2,Relación de registro contable de escrituras públicas,AYTOANEXO_10.2.2 conciliación escrituras públicas.xlsx,Anexo 10.2.2,6,tabla,no
+X,10.3,Relación contable de bienes muebles,AYTOANEXO_10.3 RELACIÓN  de bienes muebles.xlsx,Anexo 10.3,13,tabla,no
+X,10.4,Relación de cajas fuertes y/o llaves,AYTOANEXO_10.4 cajas y llaves.xlsx,Anexo 10.4,7,tabla,no
+X,10.5,Inventario de almacén,AYTOANEXO_10.5 almacen.xlsx,Anexo 10.5,15,tabla,no
+X,10.6,Inventario de bienes inmuebles,AYTOANEXO_10.6 bienes inmuebles.xlsx,Anexo 10.6,10,tabla,no
+X,10.7,Relación de sellos oficiales,AYTOANEXO_10.7 sellos.xlsx,Anexo 10.7,1,formulario o adjunto (revisar),no
+X,10.8,Relación de líneas telefónicas y servicios similares y relacionados,AYTOANEXO_10.8  LÍNEAS TELEFONICAS.xlsx,Anexo_10.8 NUMTELEFONOS,8,tabla,no
+X,10.9,Armamento y equipo de seguridad,AYTOANEXO_10.9  ARMAMENTO Y EQUIPO DE SEGURIDAD.xlsx,Anexo_10.9 armamento,14,tabla,no
+X,10.10,Relación de firmas registradas y autorizadas,AYTOANEXO_10.10 FIRMAS.xlsx,anexo 10.10 FIMRAS,7,tabla,no
+X,10.11,"Equipo de cómputo, tecnologías de la información y comunicaciones",AYTOANEXO_10.11 SISTEMAS HARDWARE.xlsx,Anexo_10.11 EQUIPO TIC'S,16,tabla,no
+X,10.12a,Relación de software comercial,AYTOANEXO_10.12 SISTEMAS SOFTWARE.xlsx,ANEXO_10.12a (COMERCIAL),18,tabla,si
+X,10.12b,Relación de software desarrollado,AYTOANEXO_10.12 SISTEMAS SOFTWARE.xlsx,ANEXO_10.12b (PROPIO),20,tabla,si
+X,10.13,"Relación de colecciones, obras de arte y objetos valiosos (bienes muebles)",AYTOANEXO_10.13 COLECCIONES Y OBRAS DE ARTE.xlsx,Anexo_10.13 COLECIONES ARTE,9,tabla,no
+X,10.14,Equipo e instrumental médico y de laboratorio (bienes muebles),AYTOANEXO_10.14 EQUIPO MEDICO.xlsx,Anexo_10.14 MEDICO,14,tabla,no
+X,10.15,"Inventario de maquinaria, otros equipos y herramientas (bienes muebles)",AYTOANEXO_10.15 MAQUINARIA.xlsx,Anexo_10.15 MAQUINARIA,13,tabla,no
+X,10.16,Parque vehicular,AYTOANEXO_10.16 PARQUE VEHÍCULAR.xlsx,Anexo_10.16 PARQUE VEHICULAR,18,tabla,no
+X,10.17,Inventario de bienes muebles,AYTOANEXO_10.17 INVENTARIO DE BIENES.xlsx,Anexo 10.17,11,tabla,no
+XI,11.1a,Relación de archivo en trámite,AYTOANEXO_11.1 Archivos.xlsx,Anexo 11.1 (a),7,tabla,si
+XI,11.1b,Relación de archivo de concentración,AYTOANEXO_11.1 Archivos.xlsx,Anexo 11.1 (b),7,tabla,si
+XI,11.1c,Relación de archivo histórico,AYTOANEXO_11.1 Archivos.xlsx,Anexo 11.1 (c),7,tabla,si
+XI,11.2,Asuntos en trámite,AYTOANEXO_11.2 asuntos en tramite.xlsx,Anexo 11.2,14,tabla,no
+XI,11.3,Correspondencia en trámite,AYTOANEXO_11.3 CORRESPONDENCIA EN TRAMITE.xlsx,Anexo_11.3 CORRESPONDENCIA,8,tabla,no
+XI,11.4,"Relación de libros, publicaciones, material bibliográfico e informativo",AYTOANEXO_11.4 PUBLICACIONES.xlsx,Anexo_11.4 publicaciones,6,tabla,no
+XI,11.5,"Manuales, lineamientos y otros",AYTOANEXO_11.5 MANUALES LINEAMIENTOS.xlsx,Anexo 11.5,6,tabla,no
+XI,11.6,Relación de asuntos jurídicos en trámite,AYTOANEXO_11.6 JURIDICO EN TRAMITE.xlsx,anexo_11.6 JURIDICO TRAMITE,11,tabla,no
+XII,12.1,Expediente tributario,AYTOANEXO_12.1 expediente tributario.xlsx,Anexo 12.1,9,tabla,no
+XII,12.2,Relación de padrones actualizados de usuarios y contribuyentes,AYTOANEXO_12.2 padrones usuarios contribuyentes.xlsx,Anexo 12.2,8,tabla,no
+XIII,13.1,Documentación presentada a la Auditoría Superior del Estado de Puebla,AYTOANEXO_13.1 documentacion ASE Puebla.xlsx,Anexo 13.1,41,tabla,no
+XIII,13.2,Entrega de informes parciales y dictamen del auditor externo,AYTOANEXO_13.2 auditor externo.xlsx,Anexo 13.2,6,tabla,no
+XIII,13.3,Relación de observaciones por auditoría,AYTOANEXO_13.3 AUDITORIAS.xlsx,Anexo_13.3 AUDITORIAS,14,tabla,no
+XIII,13.4,Relación de formatos oficiales,AYTOANEXO_13.4 FORMATOS OFICIALES.xlsx,Anexo_13.4 formatos,6,tabla,no
+XIII,13.5,Relación de solicitudes de información pública en proceso de atención (Transparencia),AYTOANEXO_13.5 SOLICITUDES DE INFORMACIÓN POR ATENDER.xlsx,anexo 13.5 TRANS PENDIENTE,8,tabla,no
+XIII,13.6,Informe de asuntos a cargo,AYTOANEXO_13.6 INFORME DE ASUNTOS A CARGO.xlsx,Anexo 13.6,16,tabla,no

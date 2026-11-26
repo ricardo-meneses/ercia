@@ -104,6 +104,12 @@ Como referencia del **nivel de detalle** de un catálogo poblano real, la guía 
 
 **Valor para el producto:** la propia norma ya define **reglas de consistencia entre anexos** (16↔17↔18↔19; 21 y 22 contra estados financieros; 32 contra plazas autorizadas). Son las primeras reglas automáticas de validación y no requieren IA.
 
+## 7 bis. Catálogo oficial ASE 2024 (extraído)
+
+El juego oficial de formatos de referencia de la ASE para ayuntamientos 2024 tiene **85 anexos**, cada uno ligado a una fracción del art. 17. El catálogo semilla y sus 983 campos detectados están en `db/seeds/catalogos/puebla/ase-2024/` (v0, pendiente de revisión).
+
+> La carpeta `Formatos para ayuntamientos/` (33 archivos `AYTOANEXO-N_edit.xlsx`) corresponde a formatos de una administración anterior (años 2011–2014). **No** se usa como catálogo vigente.
+
 ## 8. Implicaciones para el modelo (propuestas de RN)
 
 | RN propuesta | Enunciado |
@@ -118,7 +124,7 @@ Como referencia del **nivel de detalle** de un catálogo poblano real, la guía 
 
 ## 9. Pendientes
 
-1. **Descargar los formatos oficiales de la ASE 2024** (Excel, uno por anexo) desde el [portal de la ASE](https://auditoriapuebla.gob.mx/sujetos-de-revision-2/formatos/item/formatos-para-la-entrega-recepcion-de-la-administracion-publica-municipal-anexo-10). El sitio bloquea la descarga automatizada; **se requiere descarga manual** para extraer los campos exactos de cada anexo.
+1. ~~Descargar los formatos oficiales de la ASE 2024.~~ Hecho: extraídos en `db/seeds/catalogos/puebla/ase-2024/`. Falta revisar los campos (PO/DBA).
 2. Confirmar si el plazo de 45 días del art. 16 Bis es hábil o natural.
 3. Obtener 2 o 3 lineamientos municipales más (por ejemplo Puebla capital, Tepeaca, Atlixco) para medir cuánto varían los formatos del OIC frente a los de la ASE.
 4. Revisar la Ley Orgánica Municipal (arts. 168–169, atribuciones de la Contraloría) y la Ley de Rendición de Cuentas y Fiscalización Superior.
