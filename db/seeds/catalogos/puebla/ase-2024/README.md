@@ -16,15 +16,32 @@
 ## Resumen
 
 - **85 anexos**, mapeados a las 13 fracciones del art. 17 de la ley. La que más anexos tiene es la X (bienes, 19), seguida de la III (Hacienda Pública, 16).
-- **76** anexos parecen tablas (4 o más campos) y **9** son formularios o adjuntos que requieren revisión manual: 1.1, 2.2, 3.1, 3.4, 3.8.2, 3.13, 8.1.2, 8.1.3, 10.7.
 - Los anexos 2.1.1–2.1.5, 3.3a/b, 3.11a/b, 10.12a/b y 11.1a–c comparten archivo; la extracción toma solo la hoja de cada uno.
 
-## Limitaciones conocidas de la extracción automática
+### Modelo de captura (`modelo_captura`)
 
-1. En encabezados con celdas combinadas en dos niveles, a veces solo se captura el primer subencabezado (ejemplo: "ESTADO FÍSICO / EXCELENTE" en 10.16, al que le faltan BUENO, REGULAR y MALO).
-2. Los anexos en forma de matriz por año o por mes (por ejemplo, 13.3) generan campos repetidos: hay que modelarlos como renglones, no como columnas.
-3. Los formularios (3.4 conciliación bancaria, arqueos) no son tablas: hay que modelarlos como estructura propia.
-4. No se infieren tipos de dato, obligatoriedad ni validaciones. Eso lo define el PO/DBA en la revisión.
+| Valor | Anexos | Cómo se modela |
+| --- | --- | --- |
+| `tabla` | 64 | Un renglón por registro; columnas = campos del catálogo |
+| `tabla_por_ejercicio` | 5: 3.1, 3.2, 12.1, 13.2, 13.3 | Un renglón por ejercicio fiscal. **Los años no se guardan en el catálogo**: se generan del periodo de la administración al crear el proceso (el formato trae 2021–2024; en 2027 tocarán 2024–2027) |
+| `tabla_por_periodo_mensual` | 6: 2.1.1–2.1.5, 13.1 | Un renglón por ejercicio × mes, generados igual que arriba |
+| `formulario_json` | 10: 1.1, 2.2, 3.3a, 3.3b, 3.4, 3.8.2, 3.13, 8.1.2, 8.1.3, 10.7 | JSON validado contra un JSON Schema guardado en el catálogo; los importes que se concilian se exponen como columnas calculadas persistidas (`JSON_VALUE`) |
+
+### Campos de catálogo (`tipo = catalogo`)
+
+Las columnas con lista desplegable en el formato oficial se extraen como **campo de catálogo con su dominio** (12 campos; por ejemplo, 10.16 estado físico: excelente, bueno, regular, malo, siniestrado, inservible, otro). Las filas de datos del formato vienen con un valor por default de esa lista; **no son subencabezados** y el extractor las ignora.
+
+## Decisiones del PO (2026-11-28)
+
+1. Columna con lista desplegable = campo con catálogo de valores, ajustable por el OIC de cada ente.
+2. Matrices por año o por mes = renglones generados del periodo de la administración.
+3. Formularios = JSON con esquema; los datos de conciliación se exponen como columnas calculadas.
+4. Tipos de dato, obligatoriedad y validaciones: los define el PO/DBA en la revisión (no se infieren).
+
+## Limitaciones restantes de la extracción automática
+
+- Algunos encabezados de dos niveles pueden seguir incompletos; revisar contra `volcado_encabezados.md`.
+- Las validaciones que no son listas (rangos numéricos, fechas) no se extraen.
 
 ## Campos que alimentan la conciliación automática (para fases posteriores)
 
